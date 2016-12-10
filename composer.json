@@ -1,0 +1,9 @@
+{
+    "name": "masterforweb/clicksmailru",
+    "description": "json counter top.mail.ru",
+    "homepage": "https://github.com/masterforweb/clicksmailru",
+    "keywords": ["counter, mailru, clicks"],
+    "autoload": {
+        "files": ["clicksmailru.php"]
+    }
+}
