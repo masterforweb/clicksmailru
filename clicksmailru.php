@@ -1,10 +1,10 @@
 <?php
 
- class clicksmail {
+ class clicksmailru {
 
  
  	function __construct($id) {
- 		$this->id = $id	
+ 		$this->id = $id;	
  	}
 
  	function find($find, $period=2) {
